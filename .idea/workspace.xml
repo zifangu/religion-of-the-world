@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32ffadbf-3451-49ab-a58d-24cb69a46891" name="Default Changelist" comment="framwork update">
+      <change afterPath="$PROJECT_DIR$/next-steps/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/next-steps/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openess/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openess/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/perspective/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/perspective/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/self-knowledge/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/self-knowledge/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/admin/config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/posts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/posts/index.html" afterDir="false" />
@@ -46,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1617066383942</updated>
-      <workItem from="1617066385172" duration="4701000" />
+      <workItem from="1617066385172" duration="5626000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1617066953753</created>
@@ -83,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617073053099</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="framwork update">
+      <created>1617074426581</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1617074426581</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
